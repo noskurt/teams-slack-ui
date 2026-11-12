@@ -4,6 +4,13 @@ A Slack-inspired theme for **Microsoft Teams in your browser**, installed throug
 Stylus. It adds aubergine navigation, dark conversation surfaces, bundled Lato
 fonts, and a shared left-aligned message timeline.
 
+## Preview
+
+![Teams Slack UI preview with purple navigation, a dark conversation area, and an expanded formatting toolbar](docs/images/teams-slack-ui-preview.png)
+
+*AI-edited preview based on a themed Teams screenshot. Names, avatars, workspace
+details, and messages are fictional; the image illustrates the theme's appearance.*
+
 **Works on:** <https://teams.cloud.microsoft/>. The native Teams desktop and
 mobile apps are not supported. Development and visual checks have been performed
 in Firefox; other browsers may need additional verification.
